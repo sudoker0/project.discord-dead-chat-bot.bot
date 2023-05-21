@@ -29,7 +29,7 @@ Still, if that doesn't deter you from using the official bot, click the button b
 
 **Alright, new update. You absolutely should just self-host it. Me trying to host it is just a mess.**
 
-[![Add me (NOT RECOMMENDED) - DCT](https://img.shields.io/badge/NOT_RECOMMENDED-DCT-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1107550968054292502&permissions=66560&scope=bot%20applications.commands)
+[![DO NOT ADD - DCT](https://img.shields.io/badge/DO_NOT_ADD-DCT-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1107550968054292502&permissions=66560&scope=bot%20applications.commands)
 
 ## Installation (self-host)
 ### 1. Obtaining a Discord bot
