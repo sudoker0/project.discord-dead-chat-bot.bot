@@ -9,6 +9,8 @@
 ![Version - 0.1.0](https://img.shields.io/badge/Version-0.1.0-314991?style=for-the-badge)
 ![Battries - Not included](https://img.shields.io/badge/Battries-Not_included-b55039?style=for-the-badge)
 
+**This is currently a Beta software. Expect to see lots of bugs**
+
 ## Features
  - Can track how long channels in a server have died
  - Fully Open Source and self-hostable
