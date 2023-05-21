@@ -6,9 +6,8 @@
 </div>
 
 [![License - MIT](https://img.shields.io/badge/License-MIT-349999?style=for-the-badge)](https://github.com/QuanMCPC/project.discord-dead-chat-bot.bot/blob/master/LICENSE)
-[![Version - 0.1.0](https://img.shields.io/badge/Version-0.1.0-314991?style=for-the-badge)]()
-[![FOSS - 100%](https://img.shields.io/badge/FOSS-100%-349943?style=for-the-badge)]()
-[![Battries - Not included](https://img.shields.io/badge/Battries-Not_included-b55039?style=for-the-badge)]()
+![Version - 0.1.0](https://img.shields.io/badge/Version-0.1.0-314991?style=for-the-badge)
+![Battries - Not included](https://img.shields.io/badge/Battries-Not_included-b55039?style=for-the-badge)
 
 ## Features
  - Can track how long channels in a server have died
