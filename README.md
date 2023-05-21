@@ -27,7 +27,9 @@ While I do provide an official Discord bot, I currently don't recommend using it
 
 Still, if that doesn't deter you from using the official bot, click the button below
 
-[![Add me - DCT](https://img.shields.io/badge/Add_me-DCT-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1107550968054292502&permissions=66560&scope=bot%20applications.commands)
+**Alright, new update. You absolutely should just self-host it. Me trying to host it is just a mess.**
+
+[![Add me (NOT RECOMMENDED) - DCT](https://img.shields.io/badge/NOT_RECOMMENDED-DCT-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1107550968054292502&permissions=66560&scope=bot%20applications.commands)
 
 ## Installation (self-host)
 ### 1. Obtaining a Discord bot
