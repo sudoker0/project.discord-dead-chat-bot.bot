@@ -22,7 +22,7 @@ enum ConfigType {
 
 //? ----- Variable and constant -----
 
-const REPO_URL = "https://github.com/QuanMCPC/project.discord-dead-chat-bot.bot"
+const REPO_URL = "https://github.com/sudoku0/project.discord-dead-chat-bot.bot"
 
 const CHANNEL_REGEX = /^<#(\d+)>$/
 const RESET_VALUE = "<reset>"
