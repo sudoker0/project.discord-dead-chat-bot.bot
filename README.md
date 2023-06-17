@@ -5,7 +5,7 @@
 ### A Discord bot made for only one purpose, and that is to track how long the channels of a server has died.
 </div>
 
-[![License - MIT](https://img.shields.io/badge/License-MIT-349999?style=for-the-badge)](https://github.com/sudoku0/project.discord-dead-chat-bot.bot/blob/master/LICENSE)
+[![License - MIT](https://img.shields.io/badge/License-MIT-349999?style=for-the-badge)](https://github.com/sudoker0/project.discord-dead-chat-bot.bot/blob/master/LICENSE)
 ![Version - 0.1.0](https://img.shields.io/badge/Version-0.1.0-314991?style=for-the-badge)
 ![Battries - Not included](https://img.shields.io/badge/Battries-Not_included-b55039?style=for-the-badge)
 
@@ -53,7 +53,7 @@ Still, if that doesn't deter you from using the official bot, click the button b
 (To make sure you don't get confused, all commands will be shown by `$` at the front. Do not copy the dollar sign `$` when running the command)
  - Clone the repo by running:
  ```bash
-$ git clone https://github.com/sudoku0/project.discord-dead-chat-bot.bot
+$ git clone https://github.com/sudoker0/project.discord-dead-chat-bot.bot
  ```
 
  - Change directory to the bot's directory:
